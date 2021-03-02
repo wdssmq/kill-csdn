@@ -1,0 +1,27 @@
+{
+  "name": "Kill-CSDN",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "用于从搜索结果中移除CSDN等",
+  "icons": {
+    "64": "ico64.png"
+  },
+  "browser_action": {
+    "default_title": "Kill-CSDN",
+    "default_icon": "ico64.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "scripts/contentscript.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ]
+}
