@@ -1,4 +1,16 @@
 # kill-csdn
 用于从搜索结果中移除匹配的条目；
 
-<p><img src="https://img.shields.io/badge/-SEO%E6%98%AF%E5%95%A5%E8%81%94%E7%9B%9F-yellowgreen" title="SEO是啥联盟" alt="SEO是啥联盟"> <a target="_blank" title="Feed-FeedsPub" href="https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php"><img src="https://img.shields.io/badge/Feed-FeedsPub-brightgreen" title="Feed-FeedsPub" alt="Feed-FeedsPub"></a> <a target="_blank" title="Feed-Inoreader" href="https://www.innoreader.com/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php"><img src="https://img.shields.io/badge/Feed-Inoreader-blue" title="Feed-Inoreader" alt="Feed-Inoreader"></a> <a target="_blank" title="Feed-feed.wdssmq.com" href="https://feed.wdssmq.com"><img src="https://img.shields.io/badge/Feed-feed.wdssmq.com-yellow" title="Feed-feed.wdssmq.com" alt="Feed-feed.wdssmq.com"></a> <a target="_blank" title="QQ-349467624" href="https://wpa.qq.com/msgrd?v=3&uin=349467624&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-349467624-0086F9" title="QQ-349467624" alt="QQ-349467624"></a> <a target="_blank" title="mastodon-wdssmq" href="https://acg.mn/invite/DXwRtTMG"><img src="https://img.shields.io/mastodon/follow/59876?domain=https%3A%2F%2Facg.mn%2F" title="mastodon-wdssmq" alt="mastodon-wdssmq"></a> </p>
+## 投喂支持
+
+爱发电：[https://afdian.com/a/wdssmq](https://afdian.com/a/wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电")
+
+哔哩哔哩：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "沉冰浮水的个人空间\_哔哩哔哩\_bilibili")「投币或充电」「[大会员卡券领取 - bilibili](https://account.bilibili.com/account/big/myPackage "大会员卡券领取 - bilibili")」
+
+RSS 订阅：[https://feed.wdssmq.com](https://feed.wdssmq.com "沉冰浮水博客的 RSS 订阅地址") 「[「言说」RSS 是一种态度！！](https://www.wdssmq.com/post/20201231613.html "「言说」RSS 是一种态度！！")」
+
+在更多平台关注我：[https://www.wdssmq.com/guestbook.html#其他出没站点和信息](https://www.wdssmq.com/guestbook.html#%E5%85%B6%E4%BB%96%E5%87%BA%E6%B2%A1%E5%9C%B0%E7%82%B9%E5%92%8C%E4%BF%A1%E6%81%AF "在更多平台关注我")
+
+更多「小代码」：[https://cn.bing.com/search?q=小代码+沉冰浮水](https://cn.bing.com/search?q=%E5%B0%8F%E4%BB%A3%E7%A0%81+%E6%B2%89%E5%86%B0%E6%B5%AE%E6%B0%B4 "小代码 沉冰浮水 - 必应搜索")
+
+<!-- ##################################### -->
